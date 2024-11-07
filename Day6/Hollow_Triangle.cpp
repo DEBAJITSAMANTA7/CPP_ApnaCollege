@@ -3,7 +3,7 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-     int n = 10;
+     int n = 4;
 
      for (int i = 1; i <= n; i++) // outer loop to define the current row
      {
